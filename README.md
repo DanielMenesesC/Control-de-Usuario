@@ -1,4 +1,5 @@
 Employee Management System (SGE) 👩‍💼👨‍💼
+
 This is an employee management system called SGE. The goal of this project is to provide an effective solution for employee management by integrating various modern web technologies.
 
 Technologies used 🛠️:
@@ -15,5 +16,7 @@ SQL Server for database management.
 Use cases to model the main functionalities of the system.
 
 Project members 👨‍💻👨‍💻:
+
 Daniel Meneses Chavarría
+
 Nelson Calderon Martinez
